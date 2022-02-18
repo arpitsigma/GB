@@ -1,0 +1,311 @@
+# Translation of Plugins - WP Reset &#8211; Most Advanced WordPress Reset Tool - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - WP Reset &#8211; Most Advanced WordPress Reset Tool - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-19 10:00:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - WP Reset &#8211; Most Advanced WordPress Reset Tool - Stable (latest release)\n"
+
+#: wp-reset.php:2165
+msgid "Activate PRO License"
+msgstr "Aktiviraj PRO licencu"
+
+#: wp-reset.php:2092
+msgid "Pricing"
+msgstr "Cjenik"
+
+#: wp-reset.php:2082
+msgid "WP Reset PRO"
+msgstr "WP Reset PRO"
+
+#: wp-reset.php:1787
+msgid "Delete Content"
+msgstr "Obriši sadržaj"
+
+#: wp-reset.php:1768
+msgid "Purge Cache"
+msgstr "Obriši privremenu memoriju"
+
+#: wp-reset.php:1749
+msgid "Reset User Roles"
+msgstr "Ponovno postavi korisničke uloge"
+
+#: wp-reset.php:1337
+msgid "Create Snapshot"
+msgstr "Stvorite snimku"
+
+#: wp-reset.php:1708
+msgid "Index of Tools"
+msgstr "Indeks alata"
+
+#: wp-reset.php:1653
+msgid "Reset Site"
+msgstr "Ponovno vraćanje stranice"
+
+#: wp-reset.php:1643
+msgid "Site Reset"
+msgstr "Vraćanje stranice na izvorne postavke"
+
+#: wp-reset.php:1607
+msgid "you will have to confirm the action one more time"
+msgstr "morat ćete još jednom potvrditi radnju"
+
+#: wp-reset.php:1535
+msgid "Please read carefully before proceeding"
+msgstr "Molimo pročitajte pažljivo prije nego što nastavite"
+
+#: wp-reset.php:1423 wp-reset.php:2239
+msgid "Snapshots"
+msgstr "Snimke"
+
+#. Description of the plugin
+msgid "Reset the entire site or just selected parts while reserving the option to undo by using snapshots."
+msgstr "Poništite cijelu web stranicu ili samo odabrane dijelove, zadržavajući mogućnosti za poništavanje pomoću snimki."
+
+#: wp-reset.php:1516
+msgid "Please help us spread the word &amp; keep the plugin up-to-date"
+msgstr "Pomozite nam da proširimo riječ o dodatku kako bismo ga uvijek mogli održavati ažurnim"
+
+#: wp-reset.php:380
+msgid "Are you sure you want to reset the site?"
+msgstr "Jeste li sigurni da želite resetirati web stranicu?"
+
+#: wp-reset.php:2028
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: wp-reset.php:1740
+msgid "Reset Theme Options"
+msgstr "Ponovno postavi opcije tema"
+
+#: wp-reset.php:1424
+msgid "Collections"
+msgstr "Kolekcije"
+
+#: wp-reset.php:1953
+msgid "This action deletes the .htaccess file located in <code>"
+msgstr "Ova radnja briše .htaccess datoteku koja se nalazi u <code>"
+
+#: wp-reset.php:1951
+msgid "Delete .htaccess File"
+msgstr "Obrišite .htaccess datoteku"
+
+#: wp-reset.php:265
+msgid "Notice is already dismissed."
+msgstr "Obavijest je već odbačena."
+
+#: wp-reset.php:260 wp-reset.php:849
+msgid "You are not allowed to run this action."
+msgstr "Nije vam dopušteno pokretanje ove akcije."
+
+#: wp-reset.php:1910
+msgid "There are no custom tables. There's nothing for this tool to empty or delete."
+msgstr "Ne postoje korisnički definirane tablice. Ne postoji ništa što bi ovaj alat mogao isprazniti ili obirsati."
+
+#: wp-reset.php:1900
+msgid "The following "
+msgstr "Sljedeće"
+
+#: wp-reset.php:1898
+msgid "This action affects only custom tables with <code>"
+msgstr "Ova radnja utječe samo na korisnički definirane tablice s <code>"
+
+#: wp-reset.php:1896
+msgid "Empty or Delete Custom Tables"
+msgstr "Ispraznite ili obrišite korisnički definirane tablice"
+
+#: wp-reset.php:1843
+msgid "All plugins will be deleted except for WP Reset which will remain active.<br><b>There is NO UNDO. WP Reset does not make any file backups.</b>"
+msgstr ""
+"Svi dodaci će biti obrisani osim WP Reseta koji će ostati aktivan.<br>\n"
+"<b>NIJE MOGUĆE poništiti radnju. WP Reset ne pravi sigurnosne kopije.</b>"
+
+#: wp-reset.php:1841
+msgid "Delete Plugins"
+msgstr "Obriši dodatak"
+
+#: wp-reset.php:1834
+msgid "All themes will be deleted. Including the currently active theme - "
+msgstr "Sve teme će biti obrisane. Uključujući i trenutno aktivnu temu -"
+
+#: wp-reset.php:1832
+msgid "Delete Themes"
+msgstr "Obriši Teme"
+
+#: wp-reset.php:1870
+msgid "All files in <code>"
+msgstr "Sve datoteke u <code>"
+
+#: wp-reset.php:1759
+msgid "Delete Transients"
+msgstr "Obriši Transients"
+
+#: wp-reset.php:1177
+msgid "Open WP Reset Tools"
+msgstr "Otvori WP Reset Alate"
+
+#: wp-reset.php:1504
+msgid "WP Reset is not compatible with multisite!"
+msgstr "WP Reset nije kompatibilan s multisite!"
+
+#: wp-reset.php:1201 wp-reset.php:1518
+msgid "Rate the plugin ★★★★★"
+msgstr "Ocijenite dodatak ★★★★★"
+
+#: wp-reset.php:1201
+msgid "Rate the plugin"
+msgstr "Ocijenite dodatak"
+
+#: wp-reset.php:370
+msgid "An error has occurred."
+msgstr "Dogodila se pogreška."
+
+#: wp-reset.php:2054
+msgid "We are very active on the <a href=\"https://wordpress.org/support/plugin/wp-reset\" target=\"_blank\">official WP Reset support forum</a>. If you found a bug, have a feature idea or just want to say hi - please drop by. We love to hear back from our users."
+msgstr "Vrlo smo aktivni na <a href=\"https://wordpress.org/support/plugin/wp-reset\" target=\"_blank\">službenom WP Reset forumu za podršku</a>. Ukoliko nađete pogrešku, imate ideju za nove značajke ili nas samo želite pozdraviti - slobodno se javite. Volimo čuti mišljenja naših korisnika."
+
+#: wp-reset.php:1422
+msgid "Tools"
+msgstr "Alati"
+
+#: wp-reset.php:988
+msgid "Unknown tool."
+msgstr "Nepoznati alat."
+
+#: wp-reset.php:1648
+msgid "Reactivate all currently active plugins"
+msgstr "Ponovno aktivirajte sve trenutno aktivne dodatke"
+
+#: wp-reset.php:1646 wp-reset.php:1668
+msgid "Reactivate WP Reset plugin"
+msgstr "Ponovno aktivirajte WP Reset dodatak"
+
+#: wp-reset.php:1635 wp-reset.php:1645
+msgid "Reactivate current theme"
+msgstr "Ponovno aktivirajte trenutnu temu"
+
+#: wp-reset.php:1340 wp-reset.php:2240
+msgid "Collapse / expand box"
+msgstr "Smanjite / Proširite okvir"
+
+#: wp-reset.php:1505
+msgid "Please be careful when using WP Reset with multisite enabled. It's not recommended to reset the main site. Sub-sites should be OK. We're working on making it fully compatible with WP-MU. <b>Till then please be careful.</b> Thank you for understanding."
+msgstr "Molimo, budite oprezni kada koristite WPReset s uključenim multisiteom. Nije preporučeno ponovno postaviti glavnu web-stranicu.Pod-stranice bi trebale biti OK. Trenutno radimo na tome na dodatak psotane potpuno kompatibilan sa WP_MU.<b>Do tada, molimo vas da budete pažljivi.</b>Hvala na razumijevanju."
+
+#. Plugin URI of the plugin
+msgid "https://wpreset.com/"
+msgstr "https://wpreset.com/"
+
+#: wp-reset.php:1615
+msgid "All tools available via GUI are available in WP-CLI as well. To get the list of commands run %s. Instead of the active user, the first user with admin privileges found in the database will be restored. "
+msgstr "Sve značajke dostupne putem GUI su također dostupne unutar WP-CLI. Za popis svih naredbi pokrenite %s. Umjesto aktivnog korisnika, prvi korisnik s admin privilegijama pronađen u bazi podataka će biti ponovno postavljen."
+
+#: wp-reset.php:1614
+msgid "WP-CLI Support"
+msgstr "WP-CLI Podrška"
+
+#: wp-reset.php:1518
+msgid "I've already rated it"
+msgstr "Već sam ga ocijenio"
+
+#: wp-reset.php:1518
+msgid "Rate WP Reset"
+msgstr "Ocijenite WP Reset"
+
+#: wp-reset.php:1517
+msgid "If you use &amp; enjoy WP Reset, <b>please rate it on WordPress.org</b>. It only takes a second and helps us keep the plugin maintained. Thank you!"
+msgstr "Ukoliko koristite i uživate u WP Resetu, <b>molimo vas da ocijenite dodatak na WordPress.org</b>. To traje samo sekundu, a pomaže nam održati dodatak besplatnim i redovno održavanim. Hvala!"
+
+#: wp-reset.php:1402
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Oprostite, ali pristup ovoj stranici vam nije dopušten."
+
+#: wp-reset.php:1267
+msgid "<b>Site has been successfully reset to default settings.</b><br>User \"%s\" was restored with the password unchanged. Open <a href=\"%s\">WP Reset</a> to do another reset."
+msgstr "<b>Web-stranica je ponovno postavljena</b> na izvorne postavke. Korisnik \"%s\" je ponovno postavljen s nepromijenjenim lozinkom. Otvorite <a href=\"%s\">WP Reset</a> kako biste ponovno postavili web-stranicu."
+
+#: wp-reset.php:1200
+msgid "Plugin Homepage"
+msgstr "Početna stranica dodatka"
+
+#: wp-reset.php:1199 wp-reset.php:1425
+msgid "Support"
+msgstr "Podrška"
+
+#: wp-reset.php:1199
+msgid "Get help"
+msgstr "Zatraži pomoć"
+
+#: wp-reset.php:383
+msgid "Resetting in progress. Please wait."
+msgstr "Ponovno postavljanje u tijeku. Molimo pričekajte."
+
+#: wp-reset.php:379
+msgid "Are you sure you want to proceed?"
+msgstr "Jeste li sigurni kako želite nastaviti?"
+
+#: wp-reset.php:377
+msgid "OK"
+msgstr "OK"
+
+#: wp-reset.php:376
+msgid "Cancel"
+msgstr "Otkaži"
+
+#: wp-reset.php:375
+msgid "Invalid confirmation"
+msgstr "Potvrda nije valjana"
+
+#: wp-reset.php:374
+msgid "Please type \"reset\" in the confirmation field."
+msgstr "Molimo, upišite \"reset\" u polje za potvrdu."
+
+#: wp-reset.php:369
+msgid "An undocumented error has occurred. Please refresh the page and try again."
+msgstr "Dogodila se nedoumentirana pogreška. Molimo vas da osvježite stranicu i pokušate ponovno."
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Plugin Name of the plugin
+#: wp-reset.php:246 wp-reset.php:371 wp-reset.php:1410
+msgid "WP Reset"
+msgstr "WP Reset"
+
+#: wp-reset.php:1672
+msgid "Type in \"reset\""
+msgstr "Upiši \"reset\""
+
+#: wp-reset.php:1421
+msgid "Reset"
+msgstr "Ponovno postavi"
+
+#: wp-reset.php:1136
+msgid "Something went wrong. Please refresh the page and try again."
+msgstr "Nešto je pošlo po zlu. Molmi, osvježite stranicu i pokušajte ponovo."
+
+#: wp-reset.php:1142
+msgid "<b>Invalid confirmation code.</b> Please type \"reset\" in the confirmation field."
+msgstr "<b>Nevažeći kôd za potvrdu.</b>Upišite \"reset\" u polje za potvrdu."
+
+#: wp-reset.php:382
+msgid "Click \"Cancel\" to abort."
+msgstr "Pritisnite \"Odustani\" za prekid radnje."
+
+#: wp-reset.php:1241
+msgid "Visit WP Reset page for more info"
+msgstr "Posjetite WP Reset stranicu za više informacija"
+
+#: wp-reset.php:378
+msgid "Reset WordPress"
+msgstr "Ponovno postavljanje WordPressa"
